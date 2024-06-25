@@ -22,9 +22,9 @@ Welcome to the "Capitals of the World" game! Test your knowledge of world capita
 
 ## Rules
 
-. Capital names are case-insensitive.
-. You must enter the full and correct name of the capital city.
-. The game ends when an incorrect capital city is entered.
+   - Capital names are case-insensitive.
+   - You must enter the full and correct name of the capital city.
+   - The game ends when an incorrect capital city is entered.
 
 ## Enjoy the Game!
 
